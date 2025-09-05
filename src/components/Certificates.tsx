@@ -7,32 +7,32 @@ const Certificates = () => {
       title: 'Desarrollo Web con HTML',
       institution: 'EducacionIT',
       year: '2025',
-      image: './src/imgs/certificados/Certificado-Desarrollo-Web-con-HTML-EducaciónIT.jpeg',
-      url: './src/imgs/certificados/Certificado-Desarrollo-Web-con-HTML-EducaciónIT.jpeg'
+      image: '/imgs/certificados/Certificado-Desarrollo-Web-con-HTML-EducaciónIT.jpeg',
+      url: '/imgs/certificados/Certificado-Desarrollo-Web-con-HTML-EducaciónIT.jpeg'
     },
     {
       id: 2,
       title: 'JavaScript desde Cero',
       institution: 'EducacionIT',
       year: '2025',
-      image: './src/imgs/certificados/Certificado-Javascript-desde-cero-EducaciónIT.jpeg',
-      url: './src/imgs/certificados/Certificado-Javascript-desde-cero-EducaciónIT.jpeg'
+      image: '/imgs/certificados/Certificado-Javascript-desde-cero-EducaciónIT.jpeg',
+      url: '/imgs/certificados/Certificado-Javascript-desde-cero-EducaciónIT.jpeg'
     },
     {
       id: 3,
       title: 'Maquetador Web Avanzado',
       institution: 'EducacionIT',
       year: '2025',
-      image: './src/imgs/certificados/Certificado-Maquetador-Web-Avanzado-EducaciónIT.jpeg',
-      url: './src/imgs/certificados/Certificado-Maquetador-Web-Avanzado-EducaciónIT.jpeg'
+      image: '/imgs/certificados/Certificado-Maquetador-Web-Avanzado-EducaciónIT.jpeg',
+      url: '/imgs/certificados/Certificado-Maquetador-Web-Avanzado-EducaciónIT.jpeg'
     },
     {
       id: 4,
       title: 'Programación orientada a objetos con IA',
       institution: 'EducacionIT',
       year: '2025',
-      image: './src/imgs/certificados/Certificado-Programación-orientada-a-objetos-con-IA-EducaciónIT.jpeg',
-      url: './src/imgs/certificados/Certificado-Programación-orientada-a-objetos-con-IA-EducaciónIT.jpeg'
+      image: '/imgs/certificados/Certificado-Programación-orientada-a-objetos-con-IA-EducaciónIT.jpeg',
+      url: '/imgs/certificados/Certificado-Programación-orientada-a-objetos-con-IA-EducaciónIT.jpeg'
     }
   ];
 

@@ -7,7 +7,7 @@ const Projects = () => {
       title: 'Rumbox',
       subtitle: 'Fundacion Banco Nacion | Fundacion Pescar',
       description: 'Proyecto integrador desarrollado de manera colaborativa y presentado en las oficinas de Valtech. Se trata de un e-commerce orientado a centralizar la compra de productos de viajes, brindando kits personalizados para cada tipo de zona.',
-      image: './src/imgs/proyectos/rumbox_home.jpg',
+      image: '/imgs/proyectos/rumbox_home.jpg',
       technologies: ['HTML', 'CSS', 'JavaScript', 'React', 'Node', 'Express', 'MongoDB', 'TailwindCSS'],
       github: 'https://github.com/marcosfernandezzz/rumbox_PESCAR',
       demo: 'https://rumbox.netlify.app/'
@@ -17,7 +17,7 @@ const Projects = () => {
       title: 'Punto de Control',
       subtitle: 'Universidad Tecnologica Nacional Avellaneda',
       description: 'Proyecto integrador grupal desarrollado para final de la asignatura. Punto de Control es una pagina web de autogestion diseñada para brindarla a una tienda de videojuegos. Tambien cuenta con un apartado de admin funcional.',
-      image: './src/imgs/proyectos/punto_de_control.png',
+      image: '/imgs/proyectos/punto_de_control.png',
       technologies: ['HTML', 'CSS', 'JavaScript', 'Node', 'Express', 'MySQL', 'BootsTrap'],
       github: 'https://github.com/MarcosPucci/Progra3_Parcial2.git',
       demo: ''

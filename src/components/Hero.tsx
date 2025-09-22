@@ -53,7 +53,7 @@ const Hero = () => {
               </a>
 
               <a
-                href="/public/CV-Marcos-Fernandez.pdf"
+                href="/CV-Marcos-Fernandez.pdf"
                 download
                 className="flex items-center gap-3 bg-cyan-500 hover:bg-cyan-600 text-white px-6 py-3 rounded-full font-semibold"
               >
